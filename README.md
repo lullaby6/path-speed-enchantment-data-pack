@@ -17,7 +17,7 @@ Move the downloaded file in the path `.minecraft/saves/[world]/datapacks`
 
 ## 👾 Bugs/Issues
 
-Please report any bug/issues to the [Discord Server](https://discord.gg/5UdcDa5xNC) in the `bugs` channel, or create a issue in the [Github Repostiroy](https://github.com/lullaby6/path-speed-enchantment-data-pack/issues).
+Please report any bug/issues to the [Discord Server](https://discord.gg/5UdcDa5xNC) in the `bugs` channel, or create a issue in the [Github Repository](https://github.com/lullaby6/path-speed-enchantment-data-pack/issues).
 
 ## ⌨️ Commands
 
