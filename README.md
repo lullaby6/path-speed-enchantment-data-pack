@@ -9,6 +9,8 @@
 [![Repo Size](https://img.shields.io/github/repo-size/lullaby6/path-speed-enchantment-data-pack?logo=dropbox&color=red)](https://github.com/lullaby6/path-speed-enchantment-data-pack)
 [![Stars](https://img.shields.io/github/stars/lullaby6/path-speed-enchantment-data-pack?logo=github&color=yellow)](https://github.com/lullaby6/path-speed-enchantment-data-pack/stargazers)
 
+The enchantment can be obtained from the enchantment table, loot chests or trading with villagers.
+
 Version: `1.21.X`
 
 ## 📂 Installation
