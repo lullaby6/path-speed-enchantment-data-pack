@@ -9,6 +9,8 @@
 [![Repo Size](https://img.shields.io/github/repo-size/lullaby6/path-speed-enchantment-data-pack?logo=dropbox&color=red)](https://github.com/lullaby6/path-speed-enchantment-data-pack)
 [![Stars](https://img.shields.io/github/stars/lullaby6/path-speed-enchantment-data-pack?logo=github&color=yellow)](https://github.com/lullaby6/path-speed-enchantment-data-pack/stargazers)
 
+`Path Speed` is a new boot enchantment with three levels that increases your movement speed on dirt paths, similar to the Soul Speed enchantment.
+
 The enchantment can be obtained from the enchantment table, loot chests or trading with villagers.
 
 Version: `1.21.X`
@@ -32,7 +34,7 @@ Give:
 Enchant:
 
 ```mcfunction
-/enchant @s path_speed_enchantment:<level>
+/enchant @s path_speed_enchantment:path_speed <level>
 ```
 
 Disable:
